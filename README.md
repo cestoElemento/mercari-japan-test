@@ -1,4 +1,5 @@
-Note- This was rejected without reason :) . PS - Avoid take homes at all costs
+Note- This was rejected without reason :) .
+PS - Avoid take homes at all costs
 
 # Java coding test
 
